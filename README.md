@@ -2,7 +2,7 @@
 
 ## Setup
 ```
-$ git clone git@github.com:roy29fuku/Elastic-Beanstalk-Docker-Flask.git
+$ git clone git@github.com:leyuan/Elastic-Beanstalk-Docker-Flask.git
 $ cd Elastic-Beanstalk-Docker-Flask/
 
 $ eb init
