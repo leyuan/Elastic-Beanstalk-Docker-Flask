@@ -1,1 +1,6 @@
 flask
+gensim
+scikit-learn
+pandas
+numpy
+
